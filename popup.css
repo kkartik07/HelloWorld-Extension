@@ -1,0 +1,9 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(5, 91, 78);
+    background-color: rgb(139, 167, 239);
+}
+
+input {
+    box-shadow: inset;
+}
